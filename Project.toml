@@ -1,0 +1,7 @@
+name = "HestiaModelZoo"
+uuid = "6e829fb9-2176-4806-a994-15e1f0405d09"
+authors = ["Stephan Scholz"]
+version = "0.1.0"
+
+[compat]
+julia = "1.9"
