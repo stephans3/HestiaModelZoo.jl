@@ -1,3 +1,9 @@
 /Manifest.toml
 /docs/Manifest.toml
 /docs/build/
+
+/src/cooling_down/3D
+/src/heating_up
+/src/experimental
+
+/results/experimental

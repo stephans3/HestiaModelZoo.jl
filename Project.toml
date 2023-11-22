@@ -3,5 +3,9 @@ uuid = "6e829fb9-2176-4806-a994-15e1f0405d09"
 authors = ["Stephan Scholz"]
 version = "0.1.0"
 
+[deps]
+Hestia = "75036a29-a2ca-4eb4-a964-4c35e636f9a9"
+OrdinaryDiffEq = "1dea7af3-3e70-54e6-95c3-0bf5283fa5ed"
+
 [compat]
 julia = "1.9"
